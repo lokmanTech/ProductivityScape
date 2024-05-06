@@ -6,6 +6,6 @@ ProductivityScape is optimize work environment with tailored desktop backgrounds
 
 <p align="center">Example of utilizing the product.</p>
 
-<p align="center"><img src="img/sample.jpg"></p>
+<p align="center"><img src="img/sample.png"></p>
 
 [Download the ProductivityScape (1920px x 1080px) here](img/ProductivityScape-by-Lokman.jpg)
